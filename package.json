@@ -60,7 +60,7 @@
     "pg": "^7.4.3",
     "pg-hstore": "^2.3.2",
     "reflect-metadata": "^0.1.12",
-    "sequelize": "^4.37.10",
+    "sequelize": "^5.15.1",
     "sequelize-typescript": "^0.6.6-beta.1",
     "typescript": "^3.7.5"
   }
